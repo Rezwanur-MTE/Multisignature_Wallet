@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Wallet_distributed.sol": "multisig"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Wallet_distributed.sol": {
+			"keccak256": "0x184d2fc69508046c2bdd9927202d4f3eb29e46c6b181e6be79723502bc8e9eb4",
+			"urls": [
+				"bzz-raw://6f35d626d166b3d88692c239dc8fa7efacd2fef99f1605f0c6aa518001ed09df",
+				"dweb:/ipfs/QmRd92RWraZJGAXtJpJGFU6W2PbHox4oB73rqg2JSgPQQb"
+			]
+		}
+	},
+	"version": 1
+}

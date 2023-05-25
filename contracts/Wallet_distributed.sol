@@ -12,7 +12,7 @@ contract Multisig {
    }
 
    mapping(uint=>mapping(address=>bool)) isConfirmed;
-   Transaction[] public transactions;
+   Transaction[] public transactions;   // array of the Structure 
 
    event Transactionsubmitted(uint transactionID, address sender, address receiver, uint amount);
    event TransactionConfirmed(uint transactionID);

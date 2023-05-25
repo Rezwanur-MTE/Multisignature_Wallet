@@ -194,10 +194,10 @@
 	},
 	"sources": {
 		"contracts/Wallet_distributed.sol": {
-			"keccak256": "0xd7cbc87232e6c4c31405282c472014cfc28aad46993e76d965a84161614f8189",
+			"keccak256": "0x12bfc4fb0be4f9dea9dc9542dd68fe7b56c082e4058556ed22eb03a1b0fdec61",
 			"urls": [
-				"bzz-raw://1844751ef79d40f16cbb29950ef8d7e46b492c86bea7df386e8156146b987599",
-				"dweb:/ipfs/QmVmW1MFszdpnF6VFru6TuiGM63gBgErtDSPHacRNusu4Q"
+				"bzz-raw://bebd3e655b3d53562b2d997943ccca15169e0dd97d3a86c89fb92c255f0bbc5d",
+				"dweb:/ipfs/QmcBZ1UhNvsU61sXxpSPKjEXXJVvWD5ePecfU6TUPUQGEP"
 			]
 		}
 	},
